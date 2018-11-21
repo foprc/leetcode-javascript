@@ -1,5 +1,7 @@
 # My Solutions of Leetcode Problems
 
+Using javascript ES6
+
 - 1 Two Sum 两数之和
 - 5 Longest Palindromic Substring 最长回文子串
 - 7 Reverse Integer 整数反转
@@ -21,3 +23,6 @@
 - 136 Single Number 只出现一次的数字
 - 162 Find Peak Element 寻找峰值
 - 169 Majority Element 求众数
+- 190 Reverse Bits 颠倒二进制位
+- 191 Number of 1 Bits 位 1 的个数
+- 202 Happy Number 快乐数

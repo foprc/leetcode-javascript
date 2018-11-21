@@ -22,7 +22,7 @@
  * @param {string} s
  * @return {boolean}
  */
-const isValid = function (s) {
+const isValid = (s) => {
   let _s = s
   while (/\(\)|\[\]|\{\}/g.test(s)) {
     _s = _s.replace(/\(\)|\[\]|\{\}/g, '')

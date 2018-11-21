@@ -1,5 +1,5 @@
 {
-  "name": "myleetcode",
+  "name": "leetcode-javascript",
   "version": "1.0.0",
   "description": "My Solutions of Leetcode Problems",
   "private": false,
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foprc/myleetcode"
+    "url": "https://github.com/foprc/leetcode-javascript"
   },
   "bugs": {
-    "url": "https://github.com/foprc/myleetcode/issues"
+    "url": "https://github.com/foprc/leetcode-javascript/issues"
   },
   "engines": {
     "node": ">=8.0.0",

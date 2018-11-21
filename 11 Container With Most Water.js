@@ -26,7 +26,7 @@
  * @return {number}
  */
 
-let maxArea = function (height) {
+let maxArea = (height) => {
   let i = 0
   let j = height.length - 1
   let max = 0

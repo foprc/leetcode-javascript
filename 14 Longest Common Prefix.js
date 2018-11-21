@@ -16,11 +16,11 @@
  * @param {string[]} strs
  * @return {string}
  */
-const longestCommonPrefix = function (strs) {
+const longestCommonPrefix = (strs) => {
   let minWord = strs.reduce((a, b) => (a.length < b.length ? a : b), 0)
 
   let res = []
-  function test(len) {
+  const test = (len) => {
     if (len <= minWord.length) {
       const arr = []
       strs.forEach((str) => {
