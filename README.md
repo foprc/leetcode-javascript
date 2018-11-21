@@ -36,3 +36,4 @@ Using javascript ES6
 - 347 Top K Frequent Elements 前 K 个高频元素
 - 412 Fizz Buzz
 - 461 Hamming Distance 汉明距离
+- 476 Number Complement 数字的补数
