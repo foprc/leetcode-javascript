@@ -47,3 +47,4 @@ Using javascript ES6
 - 728 Self Dividing Numbers 自除数
 - 771 Jewels and Stones 宝石与石头
 - 804 Unique Morse Code Words 唯一摩尔斯密码词
+- 807 Max Increase to Keep City Skyline 保持城市天际线
