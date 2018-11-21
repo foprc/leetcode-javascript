@@ -31,3 +31,4 @@ Using javascript ES6
 - 217 Contains Duplicate 存在重复元素
 - 226 Invert Binary Tree 翻转二叉树
 - 238 Product of Array Except Self 除自身以外数组的乘积
+- 292 Nim Game Nim 游戏
