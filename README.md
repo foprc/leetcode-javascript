@@ -49,3 +49,4 @@ Using javascript ES6
 - 804 Unique Morse Code Words 唯一摩尔斯密码词
 - 807 Max Increase to Keep City Skyline 保持城市天际线
 - 814 Binary Tree Pruning 二叉树剪枝
+- 832 Flipping an Image 翻转图像
