@@ -1,6 +1,6 @@
-# My Solutions of Leetcode Problems
+# My Leetcode Problems Solutions
 
-Using javascript ES6
+Using javascript(ES6)
 
 - 1 Two Sum 两数之和
 - 5 Longest Palindromic Substring 最长回文子串
