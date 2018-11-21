@@ -1,0 +1,13 @@
+{
+  "presets": ["env", "react"],
+  "plugins": [
+    "syntax-dynamic-import",
+    [
+      "transform-runtime",
+      {
+        "polyfill": false,
+        "regenerator": true
+      }
+    ]
+  ]
+}

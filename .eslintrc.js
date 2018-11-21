@@ -1,0 +1,58 @@
+module.exports = {
+  extends: 'airbnb',
+  parser: 'babel-eslint',
+  parserOptions: {
+    sourceType: 'module',
+  },
+  plugins: ['prettier'],
+  env: {
+    browser: true,
+    node: true,
+    es6: true,
+  },
+  settings: {
+    'import/resolver': 'node',
+  },
+  globals: {
+    particlesJS: true,
+  },
+  rules: {
+    // 'prettier/prettier': 'error',
+    semi: [2, 'never'],
+    'no-unused-vars': ['error', { vars: 'all', args: 'after-used', ignoreRestSiblings: true }],
+    'arrow-parens': 0,
+    'global-require': 0,
+    'func-names': 0,
+    'prefer-const': 0,
+    'import/no-unresolved': 0,
+    'import/extensions': 0,
+    'import/prefer-default-export': 0,
+    'no-self-compare': 0,
+    'no-plusplus': ['error', { allowForLoopAfterthoughts: true }],
+    'no-bitwise': 0,
+    'no-restricted-syntax': 0,
+    'no-console': 0,
+    'no-underscore-dangle': 0,
+    'react/no-unescaped-entities': ['error', { forbid: ['>', '}'] }],
+    'react/jsx-first-prop-new-line': 0,
+    'react/jsx-filename-extension': 0,
+    'react/no-array-index-key': 0,
+    'react/forbid-prop-types': 0,
+    'react/require-default-props': 0,
+    'jsx-a11y/anchor-is-valid': 0,
+    'no-param-reassign': 0,
+    'no-mixed-operators': [
+      'error',
+      {
+        groups: [
+          ['*', '/', '%', '**'],
+          ['&', '|', '^', '~', '<<', '>>', '>>>'],
+          ['==', '!=', '===', '!==', '>', '>=', '<', '<='],
+          ['&&', '||'],
+          ['in', 'instanceof'],
+        ],
+        allowSamePrecedence: true,
+      },
+    ],
+  },
+}

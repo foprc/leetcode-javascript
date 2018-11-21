@@ -1,0 +1,21 @@
+node_modules
+yarn.lock
+package-lock.json
+# ide
+.idea
+*.swp
+*.swo
+*.css.map
+npm-debug.log.*
+.vscode/*
+.eslintcache
+tmp/
+
+# Mac General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# build
+dist
+build.state.json
