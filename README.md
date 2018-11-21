@@ -34,3 +34,4 @@ Using javascript ES6
 - 292 Nim Game Nim 游戏
 - 344 Reverse String 反转字符串
 - 347 Top K Frequent Elements 前 K 个高频元素
+- 412 Fizz Buzz
