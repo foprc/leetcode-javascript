@@ -51,3 +51,4 @@ Using javascript ES6
 - 814 Binary Tree Pruning 二叉树剪枝
 - 832 Flipping an Image 翻转图像
 - 852 Peak Index in a Mountain Array 山脉数组的峰顶索引
+- 905 Sort Array By Parity 按奇偶排序数组
