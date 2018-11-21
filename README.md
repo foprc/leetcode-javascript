@@ -44,3 +44,4 @@ Using javascript ES6
 - 655 Print Binary Tree 输出二叉树
 - 657 Robot Return to Origin 机器人能否返回原点
 - 709 To Lower Case 转换成小写字母
+- 728 Self Dividing Numbers 自除数
