@@ -28,3 +28,4 @@ Using javascript ES6
 - 202 Happy Number 快乐数
 - 204 Count Primes 计数质数
 - 215 Kth Largest Element in an Array 数组中的第 K 个最大元素
+- 217 Contains Duplicate 存在重复元素
