@@ -26,3 +26,4 @@ Using javascript ES6
 - 190 Reverse Bits 颠倒二进制位
 - 191 Number of 1 Bits 位 1 的个数
 - 202 Happy Number 快乐数
+- 204 Count Primes 计数质数
