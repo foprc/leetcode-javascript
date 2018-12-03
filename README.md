@@ -20,6 +20,7 @@ Using javascript(ES6)
 - 75 Sort Colors 颜色分类
 - 104 Maximum Depth of Binary Tree 二叉树的最大深度
 - 118 Pascal's Triangle 杨辉三角
+- 128 Longest Consecutive Sequence 最长连续序列
 - 136 Single Number 只出现一次的数字
 - 162 Find Peak Element 寻找峰值
 - 169 Majority Element 求众数

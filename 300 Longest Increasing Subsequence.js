@@ -16,7 +16,7 @@
  * @param {number[]} nums
  * @return {number}
  */
-let lengthOfLIS = function (nums) {
+const lengthOfLIS = (nums) => {
   let res = 0
   let numsLength = nums.length
   let lenHelper = new Array(numsLength).fill(1)
