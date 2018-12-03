@@ -32,6 +32,7 @@ Using javascript(ES6)
 - 226 Invert Binary Tree 翻转二叉树
 - 238 Product of Array Except Self 除自身以外数组的乘积
 - 292 Nim Game Nim 游戏
+- 300 Longest Increasing Subsequence 最长上升子序列
 - 344 Reverse String 反转字符串
 - 347 Top K Frequent Elements 前 K 个高频元素
 - 412 Fizz Buzz
