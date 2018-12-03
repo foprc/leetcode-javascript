@@ -40,6 +40,7 @@ Using javascript(ES6)
 - 461 Hamming Distance 汉明距离
 - 476 Number Complement 数字的补数
 - 500 Keyboard Row 键盘行
+- 521 Longest Uncommon Subsequence I 最长特殊序列 Ⅰ
 - 535 Encode and Decode TinyURL TinyURL 的加密与解密
 - 557 Reverse Words in a String III 反转字符串中的单词 III
 - 617 Merge Two Binary Trees 合并二叉树
