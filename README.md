@@ -11,6 +11,7 @@ Using javascript(ES6)
 - 14 Longest Common Prefix 最长公共前缀
 - 20 Valid Parentheses 有效的括号
 - 26 Remove Duplicates from Sorted Array 删除排序数组中的重复项
+- 32 Longest Valid Parentheses 最长有效括号
 - 33 Search in Rotated Sorted Array 搜索旋转排序数组
 - 34 Find First and Last Position of Element in Sorted Array 在排序数组中查找元素的第一个和最后一个位置
 - 49 Group Anagrams 字母异位词分组
