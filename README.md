@@ -19,6 +19,7 @@ Using javascript(ES6)
 - 56 Merge Intervals 合并区间
 - 73 Set Matrix Zeroes 矩阵置零
 - 75 Sort Colors 颜色分类
+- 85 Maximal Rectangle 最大矩形
 - 104 Maximum Depth of Binary Tree 二叉树的最大深度
 - 118 Pascal's Triangle 杨辉三角
 - 128 Longest Consecutive Sequence 最长连续序列
